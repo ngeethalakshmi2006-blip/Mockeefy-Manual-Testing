@@ -1,0 +1,60 @@
+MOCKEEFY – TEST REPORT
+
+Project Name: Mockeefy
+Testing Type: Manual Testing
+Application Type: Web Application
+Total Test Cases: 108
+Operating System: Windows 10
+Browsers: Google Chrome, Microsoft Edge
+
+1. Test Execution Summary
+
+Test Result    Count
+
+PASS           100
+FAIL           8
+TOTAL          108
+
+2. Module-wise Test Execution
+
+Module                         Total    Pass    Fail
+
+Home Page                      12       11      1
+Registration / Get Started     12       11      1
+Login                          12       11      1
+Mock Interview                 12       11      1
+My Sessions                    12       11      1
+More Menu                      12       11      1
+Notifications                  12       11      1
+Navigation & UI                12       12      0
+Logout / Session               12       11      1
+
+TOTAL                          108      100     8
+
+3. Test Execution
+
+The 108 prepared test cases were executed manually. The main functional areas, navigation, user interaction and UI behaviour were verified.
+
+4. Pass Criteria
+
+A test case is marked PASS when the actual result matches the expected result.
+
+5. Fail Criteria
+
+A test case is marked FAIL when the actual result does not match the expected result.
+
+6. Defect Summary
+
+8 test cases were identified as failed during execution. These failed cases are recorded in the Defect Report for further review and correction.
+
+7. Overall Result
+
+Total Test Cases: 108
+Passed: 100
+Failed: 8
+Pass Percentage: 92.59%
+Fail Percentage: 7.41%
+
+8. Conclusion
+
+The Mockeefy web application was manually tested using 108 test cases. Out of 108 test cases, 100 passed and 8 failed. The failed cases were documented separately in the Defect Report. The major functionalities of the application were verified successfully.
